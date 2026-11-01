@@ -1,0 +1,6 @@
+{
+  "name": "AI Mail Guardian",
+  "description": "Inteligentny system cyberbezpieczeństwa i ochrony poczty Gmail z analizą zagrożeń, kwarantanną i klasyfikacją AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
